@@ -1,6 +1,6 @@
 @charset "utf-8";
 *{padding: 0;margin: 0;font-size: 1.02em}
-body{background-image: url(unlimted/imges/pexels-photo-807598.jpeg );background-size: cover;}
+body{background-image: url(pexels-photo-807598.jpeg );background-size: cover;}
 button{margin: 1%47.5%}
 form{;width: 60%;margin:5% 20% ;}
 fieldset{background-color:rgba(38,30,30,0.57);color: white;text-align: center;margin-top: 50px}
